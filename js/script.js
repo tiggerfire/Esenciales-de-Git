@@ -1,5 +1,5 @@
 $btn = document.getElementById("btn");
 
-$btn.addEvenlister("click", e =>{
+$btn.addEventListener("click", e =>{
     alert("Felicidades ferchichi")
 })
